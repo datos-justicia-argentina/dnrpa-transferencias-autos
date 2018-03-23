@@ -25,7 +25,7 @@ Características
 Recursos disponibles
 --------------------
 
-### DNRPA. Transferencia de Automotores AAAA-MM
+### DNRPA. Transferencia de autos AAAA-MM
 
 -   **Nombre del archivo:** transferencias-automotores-AAAA-MM.csv
 
