@@ -95,12 +95,12 @@ Recursos disponibles
     
     -   No aplica (en caso de persona jurídica)
     
-
 -   **titular\_año\_nacimiento (int):** sexo del primer titular declarado.
 
 -   **titular\_sexo (string):** sexo del primer titular declarado.
 
--   **titular\_pais\_nacimiento (string):** país de nacimiento del primer titular declarado.<span id="notas" class="anchor"><span id="estad%C3%ADstica-de-transferencias-de-au" class="anchor"></span></span>
+-   **titular\_pais\_nacimiento (string):** país de nacimiento del primer titular declarado. En el caso de personas jurídicas toma el valor No aplica.
+<span id="notas" class="anchor"><span id="estad%C3%ADstica-de-transferencias-de-au" class="anchor"></span></span>
 
 -   **titular\_porcentaje\_titularidad (int):** porcentaje de titularidad.
 
