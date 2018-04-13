@@ -101,6 +101,14 @@ Recursos disponibles
 
 -   **titular_porcentaje_titularidad (int):** porcentaje de titularidad.
 
+### DNRPA. Transferencias de autos - AAAA
+
+-   **Nombre:** dnrpa-transferencias-autos-AAAA.zip
+
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con las trasnferencias publicados en el portal datos.jus.gob.ar correspondientes a dicho año
+
+-   **Formato:** ZIP
+
 ### Notas
 
 La actividad registral de los automotores está regulada por el Régimen Jurídico del Automotor, el Digesto de normas técnico-registrales y el Reglamento Interno de Normas Orgánico - Funcionales y Disposiciones Modificatorias. Esta documentación se encuentra disponible en la sección normativa de la [*Página oficial de la DNRPA*](http://www.dnrpa.gov.ar/portal_dnrpa/regimenj2.php)Para consultar más datos referidos a los Registros Seccionales, remitirse al [*Listado de Registros Seccionales de la DNRPA*](http://datos.jus.gob.ar/dataset/listado-de-registros-seccionales-de-la-dnrnpa).
