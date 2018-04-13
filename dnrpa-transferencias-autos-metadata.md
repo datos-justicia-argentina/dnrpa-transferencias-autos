@@ -105,7 +105,7 @@ Recursos disponibles
 
 -   **Nombre:** dnrpa-transferencias-autos-AAAA.zip
 
--   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con las trasnferencias publicados en el portal datos.jus.gob.ar correspondientes a dicho año
+-   **Descripción del contenido:** archivo comprimido que contiene las transferencias inscriptas en los Registros Seccionales de la Propiedad Automotor en el año AAAA
 
 -   **Formato:** ZIP
 
