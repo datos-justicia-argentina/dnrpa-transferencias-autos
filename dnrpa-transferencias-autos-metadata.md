@@ -29,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** transferencias-automotores-AAAA-MM.csv
 
--   **Descripción del contenido:** se detalla la cantidad de autos 0km inscriptos, por año, mes y provincia
+-   **Descripción del contenido:** se detallan las transferencias inscriptas en los Registros Seccionales de la Propiedad Automotor en el mes MM del año AAAA
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
