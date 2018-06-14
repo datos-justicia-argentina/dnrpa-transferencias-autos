@@ -37,7 +37,7 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **tramite_tipo (string):** tipo de inscripción realizada. Puede referir a una inscripción realizada mediante Formulario 01 (autos nacionales o importados), Formulario 05 (automotores subastados) o automotores clásicos.
+-   **tramite_tipo (string):** tipo de transferencia realizada. Puede tomar los valores transferencia nacional, transferencia importado, transferencia a comerciante habitualista, transferencia con extensión de prenda, entre otros.
 
 -   **tramite_fecha (date):** fecha del trámite en la cual se perfecciona el trámite. Formato AAAA-MM-DD.
 
