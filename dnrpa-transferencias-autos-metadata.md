@@ -27,7 +27,7 @@ Recursos disponibles
 
 ### DNRPA. Transferencia de autos AAAA-MM
 
--   **Nombre del archivo:** transferencias-autos-AAAA-MM.csv
+-   **Nombre del archivo:** dnrpa-transferencias-autos-AAAA-MM.csv
 
 -   **Descripción del contenido:** se detallan las transferencias inscriptas en los Registros Seccionales de la Propiedad Automotor en el mes MM del año AAAA
 
