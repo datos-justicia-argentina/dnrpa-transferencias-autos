@@ -37,33 +37,33 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **tramite_tipo (string):** tipo de transferencia realizada. Puede tomar los valores transferencia nacional, transferencia importado, transferencia a comerciante habitualista, transferencia con extensión de prenda, entre otros.
+-   **tramite_tipo (string):** tipo de transferencia realizada. Puede tomar los valores transferencia nacional, transferencia importado, transferencia a comerciante habitualista, transferencia con extensión de prenda, entre otros
 
--   **tramite_fecha (date):** fecha del trámite en la cual se perfecciona el trámite. Formato AAAA-MM-DD.
+-   **tramite_fecha (date):** fecha del trámite en la cual se perfecciona el trámite. Formato AAAA-MM-DD
 
--   **fecha_inscripcion_inicial (date):** fecha de inscripción inicial. Formato AAAA-MM-DD.
+-   **fecha_inscripcion_inicial (date):** fecha de inscripción inicial. Formato AAAA-MM-DD
 
--   **registro_seccional_codigo (int):** código del Registro Seccional en que se efectuó el trámite. Los códigos de Registros Seccionales están organizados por provincia y competencia.
+-   **registro_seccional_codigo (int):** código del Registro Seccional en que se efectuó el trámite. Los códigos de Registros Seccionales están organizados por provincia y competencia
 
--   **registro_seccional_descripcion (string):** nombre del Registro Seccional en que se efectuó el trámite. Generalmente nombre refiere a la localización del Registro Seccional. No siempre coincide con la localidad del domicilio del titular del automotor.
+-   **registro_seccional_descripcion (string):** nombre del Registro Seccional en que se efectuó el trámite. Generalmente nombre refiere a la localización del Registro Seccional. No siempre coincide con la localidad del domicilio del titular del automotor
 
--   **registro_seccional_provincia (string):** provincia donde se localiza el Registro Seccional en que se inscribió el trámite. Corresponde asimismo a la provincia del domicilio del primer titular de la inscripción o de la guarda habitual del dominio.
+-   **registro_seccional_provincia (string):** provincia donde se localiza el Registro Seccional en que se inscribió el trámite. Corresponde asimismo a la provincia del domicilio del primer titular de la inscripción o de la guarda habitual del dominio
 
--   **automotor_origen (string):** corresponde al origen del vehículo. Puede tomar los valores I Importado, N Nacional o P Protocolo 21, que se rigen por los aranceles de los automotores nacionales pero se inscriben con el certificado de importación.
+-   **automotor_origen (string):** corresponde al origen del vehículo. Puede tomar los valores I Importado, N Nacional o P Protocolo 21, que se rigen por los aranceles de los automotores nacionales pero se inscriben con el certificado de importación
 
--   **automotor_tipo_codigo (string):** código del tipo del automotor.
+-   **automotor_tipo_codigo (string):** código del tipo del automotor
 
--   **automotor_tipo_descripcion (string):** descripción del tipo del automotor. Puede tomar los valores sedán, pick-up, camión, semirremolque, todo terreno, minibús, etc.
+-   **automotor_tipo_descripcion (string):** descripción del tipo del automotor. Puede tomar los valores sedán, pick-up, camión, semirremolque, todo terreno, minibús, etc
 
--   **automotor_marca_codigo (string):** código de la marca del automotor.
+-   **automotor_marca_codigo (string):** código de la marca del automotor
 
--   **automotor_marca_descripcion (string):** descripción de la marca del automotor.
+-   **automotor_marca_descripcion (string):** descripción de la marca del automotor
 
--   **automotor_modelo_codigo (string):** código del modelo del automotor.
+-   **automotor_modelo_codigo (string):** código del modelo del automotor
 
--   **automotor_modelo_descripcion (string):** descripción del modelo del automotor.
+-   **automotor_modelo_descripcion (string):** descripción del modelo del automotor
 
--   **automotor_uso_codigo (string):** código de uso del automotor.
+-   **automotor_uso_codigo (string):** código de uso del automotor
 
 -   **automotor_uso_descripcion (string):** descripción del uso declarado del automotor. Puede tomar los valores
 
@@ -81,9 +81,9 @@ Recursos disponibles
 
     -   No identificada
 
--   **titular_domicilio_localidad (string):** localidad del domicilio del primer titular declarado.
+-   **titular_domicilio_localidad (string):** localidad del domicilio del primer titular declarado
 
--   **titular_domicilio_provincia (string):** provincia del domicilio del primer titular declarado.
+-   **titular_domicilio_provincia (string):** provincia del domicilio del primer titular declarado
 
 -   **titular_genero (string):** género del primer titular declarado. Puede tomar los valores
 
@@ -95,11 +95,16 @@ Recursos disponibles
     
     -   No aplica (en caso de persona jurídica)
     
--   **titular_año_nacimiento (int):** sexo del primer titular declarado.
+-   **titular_año_nacimiento (int):** sexo del primer titular declarado
 
--   **titular_pais_nacimiento (string):** país de nacimiento del primer titular declarado. En el caso de personas jurídicas toma el valor "No aplica".
+-   **titular_pais_nacimiento (string):** país de nacimiento del primer titular declarado. En el caso de personas jurídicas toma el valor "No aplica"
 
--   **titular_porcentaje_titularidad (int):** porcentaje de titularidad.
+-   **titular_porcentaje_titularidad (int):** porcentaje de titularidad
+
+-   **titular_domicilio_provincia_indec_id (string):** código de provincia del domicilio del primer titular declarado, según la codificación de provincia implementada por INDEC.
+
+-   **titular_pais_nacimiento_indec_id (string):** código de pais de nacimiento del primer titular declarado, según la codificación de pais implementada por INDEC.
+
 
 ### DNRPA. Transferencias de autos - AAAA
 
