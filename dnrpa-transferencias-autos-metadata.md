@@ -15,7 +15,7 @@ Características
 -   **Organización:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios
 
 -   **Autor:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios
--   
+  
 -   **Responsable:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios
 
 -   **Grupo:** Sistema Registral
