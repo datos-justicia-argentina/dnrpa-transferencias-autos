@@ -1,7 +1,7 @@
 DNRPA. Transferencias de Autos
 =======================================
 
-En este conjunto de datos se detallan los datos de vehículos y primer titular de transferencias de automotores. El trámite de transferencia del automotor se realiza en los Registros Seccionales de la Propiedad del Automotor y Créditos Prendarios dependientes de la Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios. Se consideran automotores: automóviles, camiones, inclusive los llamados tractores para semirremolque, camionetas, rurales, jeeps, furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aun cuando no estuvieran carrozados.
+En este conjunto de datos se detallan los datos de vehículos y primer titular de transferencias de automotores. El trámite de transferencia del automotor se realiza en los Registros Seccionales de la Propiedad del Automotor y Créditos Prendarios dependientes de la Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios. Se consideran automotores: automóviles, camiones, inclusive los llamados tractores para semirremolque, camionetas, rurales, jeeps, furgones de reparto, ómnibus, microómnibus y colectivos, sus respectivos remolques y acoplados, todos ellos aun cuando no estuvieran carrozados.
 
 http://datos.jus.gob.ar/dataset/transferencias-de-autos
 
@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** autos, registración, registros seccionales, titulares, transferencias, trámites, vehículos, automotores, DNRPA
 
--   **Organización:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
+-   **Organización:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios
 
--   **Autor:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
-
--   **Responsable:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional de Registros Nacionales de la Propiedad Automotor y Créditos Prendarios
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios
+-   
+-   **Responsable:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios
 
 -   **Grupo:** Sistema Registral
 
